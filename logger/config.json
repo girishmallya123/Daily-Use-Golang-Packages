@@ -1,0 +1,8 @@
+{
+    "logging": {
+            "print_logs": true,
+            "log_file": "execution_logs.log"
+    }
+
+
+}
